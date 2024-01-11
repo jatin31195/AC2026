@@ -1,3 +1,8 @@
+//https://codeforces.com/problemset/problem/1768/B
+//TC: O(n)
+//SC: O(1)
+
+//
 import java.util.*;
 
 public class quick_sort {
